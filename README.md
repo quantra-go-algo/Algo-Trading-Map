@@ -34,8 +34,18 @@ The map is divided into X sections, each section might or not contain other sect
 ## Table of contents
 1. [Contributors](#contributors)
 2. [Ask for help](#help)
-3. [The Algo Trading map](#setups)
+3. [The Algo Trading map](#map)
 
 <a id='contributors'></a>
 ## Contributors
 QuantInsti's EPAT and Quantra content teams are responsible for maintaining and contributing to this repository.
+
+<a id='help'></a>
+## Ask for help
+In case of questions, please write to:
+- Your support manager (if you’re a present EPAT student)
+- The alumni team (if you’re a past EPAT student and an alumnus)
+- QuantInsti coordinates you, see on our “Contact Us” page: [https://www.quantinsti.com/contact-us](https://www.quantinsti.com/contact-us)
+
+<a id='map'></a>
+## The Algo Trading map
