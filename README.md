@@ -66,7 +66,7 @@ In case of questions, please write to:
     3. [The Financial Markets](#the_financial_markets)
         1. [Traditional Assets ](#traditional_assets)
         2. [Blockchain and Cryptocurrencies](#blockchain_and_cryptocurrencies)
-    4. [Excel](#xcel)
+    4. [Excel](#excel)
     5. [Math and Statistics](#math_statistics)
     6. [Programming](#programming)
         1. [Python](#python)
