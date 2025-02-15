@@ -79,7 +79,7 @@ In case of questions, please write to:
 2. [Getting Data & Analysis](#getting_data_analysis)
    1. [Data Source](#data_sources)
    2. [Data Science](#data_science)
-3. [Trading Strategies](#learn_trading_strategies)
+3. [Learn Trading Strategies](#learn_trading_strategies)
     1. [Equity](#equity)
         1. [Stocks](#stocks)
         2. [ETFs](#etfs)
