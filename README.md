@@ -41,7 +41,7 @@ The map is structured as follows.
 
 <a id='contributors'></a>
 ## Contributors
-QuantInsti's Digital Marketing team maintains and contributes to this repository.
+QuantInsti's EPAT and Quantra content and Digital Marketing teams maintain and contribute to this repository.
 
 <a id='help'></a>
 ## Ask for help
