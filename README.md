@@ -570,7 +570,7 @@ In case of questions, please write to:
         - [Xing Tao: Kalman Filter Techniques And Statistical Arbitrage In China's Futures Market In Python (BA)](https://blog.quantinsti.com/kalman-filter-techniques-statistical-arbitrage-china-futures-market-python/)
         - [Andreas F. Clenow: Futures Trading: Concepts & Strategies (Quantra)](https://quantra.quantinsti.com/course/futures-trading)
         - [Quantra: Futures Trading (RV)](https://youtube.com/playlist?list=PLvoal9WEcFgLhfgnrwOjriaDXjvnOhBzK&si=wd_EIpf9o3Vnk3JW)
-        - [Nitesh Khandelwal: At POC2015 - Trade Futures and be ahead of the markets (RV)](https://youtu.be/ELuhEqwSEt4?si=ab3FdtyHID9WVRs9]
+        - [Nitesh Khandelwal: At POC2015 - Trade Futures and be ahead of the markets (RV)](https://youtu.be/ELuhEqwSEt4?si=ab3FdtyHID9WVRs9)
         - [José Carlos Gonzáles Tanaka: Download Futures Data with Yahoo Finance Library in Python (BA)](https://blog.quantinsti.com/download-futures-data-yahoo-finance-library-python/)
         - [Chainika Thakar and Varun Pothula: Futures Continuation: What it is, Challenges, Methods and More (BA)](https://blog.quantinsti.com/continuous-futures-contract/)
         - [Satyapriya Chaudhari: Futures Trading Explained (BA)](https://blog.quantinsti.com/futures-trading/)
