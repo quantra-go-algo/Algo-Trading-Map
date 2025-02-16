@@ -52,8 +52,8 @@ In case of questions, please write to:
 
 <a id='nomenclature'></a>
 ## Nomenclature
-- EPAT content: EPAT content
-- Quantra content: Quantra content
+- EPAT content: EPAT
+- Quantra content: Quantra
 - Blog Article: BA
 - Recorded Video: RV
 - Text Book: TB
