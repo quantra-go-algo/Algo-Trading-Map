@@ -137,7 +137,7 @@ In case of questions, please write to:
             - [Chainika Thakar: Stock Market Math: Essential Concepts for Algorithmic Trading (BA)](https://blog.quantinsti.com/algorithmic-trading-maths/)
             - [Alex Boykov: Google Stock Historical Prices Download Toolbox (BA)](https://blog.quantinsti.com/google-finance-download-historical-prices/)
             - [Chainika Thakar: Stock Market Data: Obtaining Data, Visualization & Analysis in Python (BA)](https://blog.quantinsti.com/stock-market-data-analysis-python/)
-            - [QuantInsti: Stock Data Analysis: Excel Vs Python | Full Tutorial (BA)](https://www.youtube.com/watch?v=I2jxs-1UWHk)
+            - [QuantInsti: Stock Data Analysis: Excel Vs Python | Full Tutorial (RV)](https://www.youtube.com/watch?v=I2jxs-1UWHk)
             - [Rekhit Pachanekar: Short Selling: Example, Strategy, Myths (BA)](https://blog.quantinsti.com/short-selling/)
             - [Milind Paradkar: Basic Operations On Stock Data Using Python (BA)](https://blog.quantinsti.com/basic-operations-stock-data-using-python/)
         2. Blockchain and Cryptocurrencies <a id='blockchain_and_cryptocurrencies'></a> 
@@ -162,9 +162,8 @@ In case of questions, please write to:
         - [Jacques Joubert: Backtesting Long Short Moving Average Crossover Strategy in Excel (BA)](https://blog.quantinsti.com/vectorized-backtesting-in-excel/)
         - [Chainika Thakar and Akshay Choudhary: Candlestick Trading: A Momentum Strategy with Example (BA)](https://blog.quantinsti.com/candlestick-trading-a-momentum-strategy-with-example-excel-model/)
         - [Chainika Thakar and Akshay Choudhary: Time-Weighted Average Price (TWAP): Introduction, Some Examples, and Calculations (BA)](https://blog.quantinsti.com/twap/)
-        - [Nitin Thapar: Bull Call Spread Strategy (BA)]()
-        - [Chainika Thakar and Akshay Choudhary: VWAP Tutorial: Calculation, Uses, and Limitations (BA)](https://blog.quantinsti.com/bull-call-spread-strategy/)
-        - [Jay Parmar: Stock Data Analysis: Excel Vs Python | Full Tutorial (RV)](https://youtu.be/I2jxs-1UWHk?si=RGgdtw87_FcB86Ge)
+        - [Nitin Thapar: Bull Call Spread Strategy (BA)](https://blog.quantinsti.com/bull-call-spread-strategy/)
+        - [Chainika Thakar and Akshay Choudhary: VWAP Tutorial: Calculation, Uses, and Limitations (BA)](https://blog.quantinsti.com/vwap-strategy/)
     5. Math & Statistics <a id='math_statistics'></a>
         - PRE-01 (EPAT)
         - Primer on Statistics (EPAT)
@@ -677,10 +676,10 @@ In case of questions, please write to:
     - [Aiman Mulla: Top 10 Blogs on Algorithmic Trading | 2023 (BA)](https://blog.quantinsti.com/algorithmic-trading-top-blogs/)
 6. Backtest Trading Strategies <a id='backtest_trading_strategies'></a>
     1. Excel-Based Backtesting <a id='excel_based_backtesting'></a>
-        - SFM-01
-        - SFM-03
-        - EFS-01
-        - EFS-02
+        - SFM-01 (EPAT)
+        - SFM-03 (EPAT)
+        - EFS-01 (EPAT)
+        - EFS-02 (EPAT)
         - [Patrick Grattan: Developing Profitable Trading Strategies (TB)](https://www.amazon.com/-/es/Patrick-Grattan-ebook/dp/B00DCJR4CI/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1DUHO2CQFSL6V&dib=eyJ2IjoiMSJ9.5m5Ap1WMtxG9c-HccI3AA7bLbmNyBijZG1xru_I-fBnGjHj071QN20LucGBJIEps._5WQTQCo3F7QzQke_By-ohIn7rTb9u0ecd9qxMZr26k&dib_tag=se&keywords=backtesting+excel&qid=1731101031&s=books&sprefix=backtesting+excel%2Cstripbooks-intl-ship%2C135&sr=1-1)
         - [Jacques Joubert: Backtesting Long Short Moving Average Crossover Strategy in Excel (BA)](https://blog.quantinsti.com/vectorized-backtesting-in-excel/)
         - [Jay Parmar: Stock Data Analysis: Excel Vs Python | Full Tutorial (RV)](https://www.youtube.com/watch?v=I2jxs-1UWHk)
@@ -812,8 +811,8 @@ In case of questions, please write to:
     - [Rushda Ansari and Palak Khanna: Performance Metrics, Risk Metrics and Strategy Optimisation: An Overview (BA)](https://blog.quantinsti.com/performance-metrics-risk-metrics-optimization/)
     - [Vibhu Singh and Mandeep Kaur: Portfolio Analysis - Performance Measurement And Evaluation (BA)](https://blog.quantinsti.com/portfolio-analysis-performance-measurement-evaluation/)
 11. Get a Quant Job <a id='get_a_quant_job'></a>
-    - Resources Section 15
-    - Resources Section 21
+    - Resources Section 15 (EPAT)
+    - Resources Section 21 (EPAT)
     - [Chainika Thakar: How to get a job at a Hedge Fund (BA)](https://blog.quantinsti.com/hedge-fund-jobs/)
     - [Chainika Thakar: How to get a job in a High-Frequency Trading firm (BA)](https://blog.quantinsti.com/high-frequency-trading-jobs/)
     - [Chainika Thakar: How to Get a Job at an Investment Bank? (BA)](https://blog.quantinsti.com/investment-banking-jobs/)
