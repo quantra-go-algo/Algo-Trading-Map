@@ -255,8 +255,8 @@ In case of questions, please write to:
     1. Equity <a id='equity'></a>
         1. Stocks <a id='stocks'></a>
             - Resources Section 8 (EPAT)
-            - [Ross Cameron: How to Day Trade (TB)](https://www.amazon.com/-/es/How-Day-Trade-Plain-Truth/dp/B0CM825Z81/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=UVUTKE6XL3PG&dib=eyJ2IjoiMSJ9.4QtCkAC6lVFYKfZvUIb3oDdUUb_asUM5tUGeWl2cODVpZexSdWgihNVy2wGgTU1VC5vaU4_vH87kP1_6mS6WSY76oszzzuLeDjuDSvXWxGASVPu5NkLFTDEsWVYP7-PTwutwSCS9ygX7uE7O7f1yAHLpEPUf9YnOGQiuOQnRHohDN6Q3jIsYoHVKH34x2KZwfAjohDtYzx24JrbgABe9r6AlXrOmAkjLAkQZBkiMdJNZkUNXzKXrBWcY2Bjr67fMb9cBqS6o69MtTFW1fyoGBQGlqClCocYvQTuaAKaR1lU.Gm_UpQ3pOREWaebmTxRGcR7NQVweESae3ViwTQRbu2g&dib_tag=se&keywords=stock+trading+strategies&qid=1731098406&sprefix=stock+trading+strategie%2Caps%2C185&sr=8-1)
-            - [Matthew R. Kratter: Learn to Trade Momentum Stocks (TB)](https://www.amazon.com/-/es/Matthew-R-Kratter-ebook/dp/B079C78GQH/ref=sr_1_9?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=UVUTKE6XL3PG&dib=eyJ2IjoiMSJ9.4QtCkAC6lVFYKfZvUIb3oDdUUb_asUM5tUGeWl2cODVpZexSdWgihNVy2wGgTU1VC5vaU4_vH87kP1_6mS6WSY76oszzzuLeDjuDSvXWxGASVPu5NkLFTDEsWVYP7-PTwutwSCS9ygX7uE7O7f1yAHLpEPUf9YnOGQiuOQnRHohDN6Q3jIsYoHVKH34x2KZwfAjohDtYzx24JrbgABe9r6AlXrOmAkjLAkQZBkiMdJNZkUNXzKXrBWcY2Bjr67fMb9cBqS6o69MtTFW1fyoGBQGlqClCocYvQTuaAKaR1lU.Gm_UpQ3pOREWaebmTxRGcR7NQVweESae3ViwTQRbu2g&dib_tag=se&keywords=stock+trading+strategies&qid=1731098406&sprefix=stock+trading+strategie%2Caps%2C185&sr=8-9)
+            - [Ross Cameron: How to Day Trade (TB)](https://www.amazon.com/-/es/How-Day-Trade-Plain-Truth/dp/B0CM825Z81/)
+            - [Matthew R. Kratter: Learn to Trade Momentum Stocks (TB)](https://www.amazon.com/-/es/Matthew-R-Kratter-ebook/dp/B079C78GQH/)
             - [Ashutosh Dave: Trend Analysis using Open Interest, Rollover and FII/DII Activity in Python (BA)](https://blog.quantinsti.com/trend-analysis-open-interest-rollover-fii-dii-python/)
             - [Renato Votto and Ujjwal Agrawal: Predict Daily Stock Prices And Automate A Day Trading Strategy (RV)](https://www.youtube.com/watch?v=Rn1MpizWwNY&t=1s)
             - [Evgeny Tishkin: Investing in Big Tech Stocks using online Quantitative Models (BA)](https://blog.quantinsti.com/investing-big-tech-stocks-online-quantitative-models-epat-project-evgeny-tishkin/)
@@ -278,7 +278,7 @@ In case of questions, please write to:
             - [Deepak Shenoy: Webinar on Quantitative Strategies with Fundamentals - Deepak Shenoy (RV)](https://youtu.be/9wafsRqRtvc?si=LUc33qkJXPG7nPDe)
             - [Chainika Thakar, Ishan Shah and Aaryaman Gupta: Long-Short Equity Strategy: A Comprehensive Guide (BA)](https://blog.quantinsti.com/long-short-equity-strategy/)
         2. ETFs <a id='etfs'></a>
-            - [Richard A. Ferri: The ETF Book (TB)](https://www.amazon.com/-/es/ETF-Book-About-Exchange-Traded-Funds/dp/0470537469/ref=sr_1_19?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=26VRRAP9MUSW5&dib=eyJ2IjoiMSJ9.0lQKh12OSMTHcPMhONVDNrxSkMtNFPybExBVDGSean6n-g_ACQe-Fs6HEh7XQYdmHvxA5MSU3WhQZG_1Ioj-bYSV6UVrQkrkBDXzbO13-w0R-QJgmgBA7bRrjn0u9vsbMbL8eAV9IyVa3sRcPkUQ3bMljjNPgDbzX0sRVSYk-SA0bGL-g86393ryB8P2kHdds7E9hO92o2TIwKdE_1CwaQqd2Z9oP-Ybl6DJH4yPhYutcIdY7a1C6cgVjK4cpecCaQULxz_bvxjcwCoKH0z1ZDWiJhkzUcm-18z8CAnjPOs.Y908cLFzoCMqQNKgMGskM3D3W043YD5DIVVZHMAAIyE&dib_tag=se&keywords=etf&qid=1731100338&refinements=p_72%3A1250221011&rnid=1250219011&s=books&sprefix=etf%2Caps%2C185&sr=1-19)
+            - [Richard A. Ferri: The ETF Book (TB)](https://www.amazon.com/-/es/ETF-Book-About-Exchange-Traded-Funds/dp/0470537469/)
             - [Edmund Ho: Pairs Trading On ETF (BA)](https://blog.quantinsti.com/pairs-trading-with-etf/)
             - [QuantInsti: Trading with ETF as a Lead Indicator (BA)](https://blog.quantinsti.com/etf-msci-futures-excel-model/)
             - [QuantInsti: Diversified ETF Portfolio: From Backtesting to Live Trading (BA)](https://blog.quantinsti.com/diversified-etf-portfolio-project-chee-wai-wan/)
@@ -289,11 +289,11 @@ In case of questions, please write to:
             - [Chainika Thakar: How to Succeed With Exchange-Traded Funds? (BA)](https://blog.quantinsti.com/exchange-traded-funds/)
             - [Ishan Shah and Rekhit Pachanekar: Gold Price Prediction: Step By Step Guide Using Python Machine Learning (BA)](https://blog.quantinsti.com/gold-price-prediction-using-machine-learning-python/)
         3. Factor Investing <a id='factor_investing'></a>
-            - [Quantra: Factor Investing: Concepts and Strategies (Quantra)](https://quantra.quantinsti.com/course/factor-investing-concept-strategies)
+            - [QuantInsti: Factor Investing: Concepts and Strategies (Quantra)](https://quantra.quantinsti.com/course/factor-investing-concept-strategies)
             - [Quantra: Factor Investing: Concepts & Strategies | Course Structure | Quantra course (RV)](https://youtu.be/QDqV5NVb3ys?si=gJC-mAMgIQaWsckX)
             - [Quantra: Factor Investing Made Easy: Understanding Alpha & Beta (RV)](https://youtu.be/4CDWRciCzVQ?si=wtdjepQwnfKTLO-T)
             - [Quantra: Factor Investing | Momentum Trading | Python for Trading (RV)](https://youtu.be/_Dj71p3WrdA?si=JOODqLXKX2K2uxMx)
-            - [Varun Kumar: Introduction to Quantitative Factor Investing (RV)](https://www.youtube.com/live/7_BXyM7xapM?si=k5KuTe3oHS6RsSzO)
+            - [Varun Pothula: Introduction to Quantitative Factor Investing (RV)](https://www.youtube.com/live/7_BXyM7xapM?si=k5KuTe3oHS6RsSzO)
             - [Prodipta Ghosh: Should Retail Investors go for Value Investing or Factor Investing? | Explained (RV)](https://youtu.be/m8QUfmX1798?si=ubSG96D4Ro7yzte-)
             - [Rekhit Pachanekar: Factor Investing with Algorithmic Trading (RV)](https://www.youtube.com/live/98Ozhi6nHeI?si=oUaKmCuyMduvNJhx)
             - [Chainika Thakar: Factor Investing: What it is, Types, Pros, Cons, and More (BA)](https://blog.quantinsti.com/factor-investing/)
