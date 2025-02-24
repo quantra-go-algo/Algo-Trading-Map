@@ -245,12 +245,12 @@ In case of questions, please write to:
     2. Data Science <a id='data_science'></a>
         - [Kshitij Makwana: Why is data cleaning important and how to do it the right way? (BA)](https://blog.quantinsti.com/data-cleaning/)
         - [Chainika Thakar: Clean, Transform, Optimize: The Power of Data Preprocessing (BA)](https://blog.quantinsti.com/data-preprocessing/)
-        - [Quantra: NLTK: Installation, Environment, Application in NLP (Quantra)](https://blog.quantinsti.com/nltk/)
+        - [QuantInsti: NLTK: Installation, Environment, Application in NLP (Quantra)](https://blog.quantinsti.com/nltk/)
         - [Manusha Rao: Python Libraries Explained: Transforming Data for Effective Trading (BA)](https://blog.quantinsti.com/python-trading-library/)
         - [Data Visualization In Python Using Bokeh: Data Visualization In Python Using Bokeh (BA)](https://blog.quantinsti.com/python-data-visualization-using-bokeh/)
-        - [Data Manipulation and Visualization Techniques in Julia: Data Manipulation and Visualization Techniques in Julia (BA)](https://blog.quantinsti.com/data-manipulation-visualization-using-julia/)
-        - [Plotly Python - An Interactive Data Visualization: Plotly Python - An Interactive Data Visualization (BA)](https://blog.quantinsti.com/plotly-python/)
-        - [Creating Seaborn Heatmap Using Python: Creating Seaborn Heatmap Using Python (BA)](https://blog.quantinsti.com/creating-heatmap-using-python-seaborn/)
+        - [Anshul Tayal: Data Manipulation and Visualization Techniques in Julia: Data Manipulation and Visualization Techniques in Julia (BA)](https://blog.quantinsti.com/data-manipulation-visualization-using-julia/)
+        - [Rekhit Pachanekar and Shaktiprasad Shimpi: Plotly Python - An Interactive Data Visualization: Plotly Python - An Interactive Data Visualization (BA)](https://blog.quantinsti.com/plotly-python/)
+        - [Udisha Alok and Milind Paradkar: Creating Seaborn Heatmap Using Python: Creating Seaborn Heatmap Using Python (BA)](https://blog.quantinsti.com/creating-heatmap-using-python-seaborn/)
 3. Learn Trading Strategies <a id='learn_trading_strategies'></a>
     1. Equity <a id='equity'></a>
         1. Stocks <a id='stocks'></a>
