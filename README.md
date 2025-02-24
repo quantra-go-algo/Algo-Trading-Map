@@ -298,7 +298,7 @@ In case of questions, please write to:
             - [Rekhit Pachanekar: Factor Investing with Algorithmic Trading (RV)](https://www.youtube.com/live/98Ozhi6nHeI?si=oUaKmCuyMduvNJhx)
             - [Chainika Thakar: Factor Investing: What it is, Types, Pros, Cons, and More (BA)](https://blog.quantinsti.com/factor-investing/)
     2. Forex <a id='forex'></a>
-        - [FXCM: Forex Trading using Python: Basics (Quantra)](https://quantra.quantinsti.com/course/forex-trading-python-basics)
+        - [QuantInsti: Forex Trading using Python: Basics (Quantra)](https://quantra.quantinsti.com/course/forex-trading-python-basics)
         - [QuantInsti: Value Strategy in Forex (Quantra)](https://quantra.quantinsti.com/course/value-strategy-forex)
         - [Quantra: Forex Trading using Python (RV)](https://youtube.com/playlist?list=PLvoal9WEcFgLhBlXJmAi6ryb_t9j4em8c&si=GrcBZfgJ5zWyCX8X)
         - [Prodipta Ghosh: Forex Trading Strategies | Develop and Backtest Trading Ideas | Full FX Tutorial (RV)](https://youtu.be/3xQW7Rm91hA?si=aY4yKw_fgk-x-3HQ)
