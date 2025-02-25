@@ -645,7 +645,7 @@ In case of questions, please write to:
     - [Ernest P. Chan: Algorithmic Trading: Winning Strategies and Their Rationale (TB)](https://www.amazon.com/-/es/Ernie-Chan/dp/1118460146/)
     - [Tom Costello: The Front Office (TB)](https://www.amazon.com/-/es/Tom-Costello-ebook/dp/B08XNWGX4K/)
     - [Lokesh Kumar: Turning data into insights and building strategy using Python (BA)](https://blog.quantinsti.com/data-insights-trading-strategy-python-project-lokesh-kumar/)
-    - [Chainika Thakar and Varun Pothula: Types of Trading Strategies: Unraveling the Secrets of Strategic Trading (BA)](https://blog.quantinsti.com/data-insights-trading-strategy-python-project-lokesh-kumar/)
+    - [Chainika Thakar and Varun Pothula: Types of Trading Strategies: Unraveling the Secrets of Strategic Trading (BA)](https://blog.quantinsti.com/types-of-trading-strategies/)
     - [Aiman Mulla: Top 10 Blogs on Algorithmic Trading | 2023 (BA)](https://blog.quantinsti.com/algorithmic-trading-top-blogs/)
 6. Backtest Trading Strategies <a id='backtest_trading_strategies'></a>
     1. Excel-Based Backtesting <a id='excel_based_backtesting'></a>
