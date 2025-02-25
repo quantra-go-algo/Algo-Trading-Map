@@ -724,7 +724,7 @@ In case of questions, please write to:
     - TIO-01 (EPAT)
     - TIO-02 (EPAT)
     - Resources Section 28 (EPAT)
-    - [Chainika Thakar: Setting-Up An Algo Trading Desk (BA)](https://blog.quantinsti.com/setting-up-an-algo-trading-desk/)
+    - [Chainika Thakar and Apoorva Singh: Setting-Up An Algo Trading Desk (BA)](https://blog.quantinsti.com/setting-up-an-algo-trading-desk/)
     - [Matthew Scarpino: Algorithmic Trading with Interactive Brokers (TB)](https://www.amazon.com/Algorithmic-Trading-Interactive-Brokers-Python/dp/0997303735)
     - [Sunil Guglani: Algorithmic Trading Stages Explained Simply (BA)](https://blog.quantinsti.com/algo-trading-stages-explained-simply/)
     - [Mario Pisa Peña: Setting up your own Trading Machine and developing like a Pro (BA)](https://blog.quantinsti.com/trading-machine-setup/)
