@@ -553,7 +553,7 @@ In case of questions, please write to:
         - [Devang Singh: How To Model Volatility Smile In Python (BA)](https://blog.quantinsti.com/volatility-smile-origin-implications/)
     6. Futures <a id='futures'></a>
         - EFS-04 and 05 (EPAT)
-        - [Robert Carver: Advanced Futures Trading Strategies (TB)](https://www.amazon.com/-/es/Advanced-Futures-Trading-Strategies-Robert/dp/0857199684/ref=sr_1_fkmr0_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14BAP5N21GRFW&dib=eyJ2IjoiMSJ9.2lZTIuhOoxIm2RZ89m3o6zxaJ1ad5PWKGL6vaKTBZE0.4uyoqJ3NLPEZmu4mm_XrEl4VipMzO-9-rdG96vz32aM&dib_tag=se&keywords=futures+trading+robert+craver&qid=1731100148&sprefix=futures+trading+robert+craver%2Caps%2C142&sr=8-1-fkmr0)
+        - [Robert Carver: Advanced Futures Trading Strategies (TB)](https://www.amazon.com/-/es/Advanced-Futures-Trading-Strategies-Robert/dp/0857199684/)
         - [Jirong Huang: Trend Following Strategy in Futures using Time Series Momentum and Continuous Forecasts (BA)](https://blog.quantinsti.com/trend-following-strategy-futures-time-series-momentum-continuous-forecasts-project-jirong-huang/)
         - [Satyapriya Chaudhari: Futures Trading Explained (BA)](https://blog.quantinsti.com/futures-trading/)
         - [Chandrashekhar Satoskar: Cash to Future Arbitrage (BA)](https://blog.quantinsti.com/cash-to-future-arbitrage/)
@@ -564,7 +564,6 @@ In case of questions, please write to:
         - [Quantra: Futures Trading (RV)](https://youtube.com/playlist?list=PLvoal9WEcFgLhfgnrwOjriaDXjvnOhBzK&si=wd_EIpf9o3Vnk3JW)
         - [Nitesh Khandelwal: At POC2015 - Trade Futures and be ahead of the markets (RV)](https://youtu.be/ELuhEqwSEt4?si=ab3FdtyHID9WVRs9)
         - [José Carlos Gonzáles Tanaka: Download Futures Data with Yahoo Finance Library in Python (BA)](https://blog.quantinsti.com/download-futures-data-yahoo-finance-library-python/)
-        - [Chainika Thakar and Varun Pothula: Futures Continuation: What it is, Challenges, Methods and More (BA)](https://blog.quantinsti.com/continuous-futures-contract/)
         - [Satyapriya Chaudhari: Futures Trading Explained (BA)](https://blog.quantinsti.com/futures-trading/)
     7. High-Frequency Trading <a id='high_frequency_trading'></a>
         - [Dr. Ernest P. Chan: Trading in Milliseconds: MFT Strategies & Setup (Quantra)](https://quantra.quantinsti.com/course/trading-in-milliseconds/)
