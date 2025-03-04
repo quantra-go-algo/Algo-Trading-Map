@@ -57,6 +57,7 @@ In case of questions, please write to:
 - Blog Article: BA
 - Recorded Video: RV
 - Text Book: TB
+- Document: DT
 
 <a id='map_structure'></a>
 # Map Structure
@@ -234,7 +235,7 @@ In case of questions, please write to:
         - [Martin Fowler: Refactoring: Improving the Design of Existing Code (TB)](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
         - [Robert C. Martin: Clean Code: A Handbook of Agile Software Craftsmanship (TB)](https://www.amazon.com/-/es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
     11. Ethics in Finance <a id='ethics_in_finance'></a>
-        - [John R. Boatright : Ethics in Finance (TB)](https://www.amazon.com/-/es/Ethics-Finance-John-R-Boatright/dp/1118615824/)
+        - [John R. Boatright: Ethics in Finance (TB)](https://www.amazon.com/-/es/Ethics-Finance-John-R-Boatright/dp/1118615824/)
 2. Getting Data & Analysis <a id='getting_data_analysis'></a>
     1. Data Sources <a id='data_sources'></a>
         - [Kristof Leroux and Rekhit Pachanekar: How to Get Historical Market Data Through Python Stock API (BA)](https://blog.quantinsti.com/historical-market-data-python-api/)
@@ -244,7 +245,6 @@ In case of questions, please write to:
     2. Data Science <a id='data_science'></a>
         - [Kshitij Makwana: Why is data cleaning important and how to do it the right way? (BA)](https://blog.quantinsti.com/data-cleaning/)
         - [Chainika Thakar: Clean, Transform, Optimize: The Power of Data Preprocessing (BA)](https://blog.quantinsti.com/data-preprocessing/)
-        - [QuantInsti: NLTK: Installation, Environment, Application in NLP (Quantra)](https://blog.quantinsti.com/nltk/)
         - [Manusha Rao: Python Libraries Explained: Transforming Data for Effective Trading (BA)](https://blog.quantinsti.com/python-trading-library/)
         - [Data Visualization In Python Using Bokeh: Data Visualization In Python Using Bokeh (BA)](https://blog.quantinsti.com/python-data-visualization-using-bokeh/)
         - [Anshul Tayal: Data Manipulation and Visualization Techniques in Julia: Data Manipulation and Visualization Techniques in Julia (BA)](https://blog.quantinsti.com/data-manipulation-visualization-using-julia/)
@@ -305,7 +305,7 @@ In case of questions, please write to:
         - [Madhuri Sangaraju: Carry Trade Strategy In Forex (BA)](https://blog.quantinsti.com/carry-trade-strategy-forex/)
         - [Rekhit Pachanekar: 9 Factors Affecting Forex Market Trading (BA)](https://blog.quantinsti.com/forex-market-trading-factors/)
         - [José Carlos Gonzáles Tanaka: yfinance library: Download Forex Price Data using Python (BA)](https://blog.quantinsti.com/download-forex-price-data-yfinance-library-python/)
-        - [QuamtInsti: Machine Learning and Its Application in Forex Markets - Part 2 - Working Model (BA)](https://blog.quantinsti.com/machine-learning-application-forex-markets-part-2/)
+        - [QuantInsti: Machine Learning and Its Application in Forex Markets - Part 2 - Working Model (BA)](https://blog.quantinsti.com/machine-learning-application-forex-markets-part-2/)
     3. Bonds <a id='bonds'></a>
         - [Algorithmic Trade Execution in different Asset Classes: Algorithmic Trade Execution in different Asset Classes (BA)](https://blog.quantinsti.com/algorithmic-trade-execution-different-asset-classes/)
     4. For any Asset <a id='for_any_asset'></a>
@@ -371,14 +371,14 @@ In case of questions, please write to:
             - EFS-03 (EPAT)
             - [Douglas S. Ehrman: The Handbook of Pairs Trading (TB)](https://www.amazon.com/-/es/Douglas-S-Ehrman/dp/0471727075/)
             - [Simao Moraes and Nuno Horta: A Machine Learning based Pairs Trading Investment Strategy (TB)](https://www.amazon.com/-/es/Sim%C3%A3o-Moraes-Sarmento-ebook/dp/B08CY1VQ9K/)
-            - [Jonathan: Pair Trading – Statistical Arbitrage On Cash Stocks (BA)](https://blog.quantinsti.com/pair-trading-statistical-arbitrage-on-cash-stocks/)
+            - [Jonathan Moreno Narváez: Pair Trading – Statistical Arbitrage On Cash Stocks (BA)](https://blog.quantinsti.com/pair-trading-statistical-arbitrage-on-cash-stocks/)
             - [Luiz Guedes: Statistical Arbitrage: Pair Trading in the Brazilian Stock Market (BA)](https://blog.quantinsti.com/statistical-arbitrage-pair-trading-brazil-stock-market-project-luiz-guedes/)
             - [Divyant Agarwal: Dynamic Selection of Pairs for Statistical Arbitrage (BA)](https://blog.quantinsti.com/selection-pairs-statistical-arbitrage-project-divyant-agarwal/)
             - [Jacques Joubert: Statistical Arbitrage Strategy In R - By Jacques Joubert (BA)](https://blog.quantinsti.com/epat-project-jacques-statistical-arbitrage/)
             - [Xing Tao: Kalman Filter Techniques And Statistical Arbitrage In China's Futures Market In Python (BA)](https://blog.quantinsti.com/kalman-filter-techniques-statistical-arbitrage-china-futures-market-python/)
             - [QuantInsti: Statistical Arbitrage Trading (Quantra)](https://quantra.quantinsti.com/course/statistical-arbitrage-trading)
             - [QuantInsti: Mean Reversion Strategies In Python (Quantra)](https://quantra.quantinsti.com/course/python-mean-reversion-strategies-ernest-chan)
-            - [QuantInsti: Pairs Trading Strategy Explained | Beginners Guide | Algorithmic Trading Strategies (Quantra)](https://youtu.be/1zvvFOmwnRE?si=rre0lO9-ZPO2P-9m)
+            - [QuantInsti: Pairs Trading Strategy Explained | Beginners Guide | Algorithmic Trading Strategies (RV)](https://youtu.be/1zvvFOmwnRE?si=rre0lO9-ZPO2P-9m)
             - [QuantInsti: Workshops in NMIMS: Pair Trading and Statistical Arbitrage - Part 2 - Quantinsti (RV)](https://youtu.be/ApMHG7irlTA?si=RypJ0bQUH2nGgU0r)
             - [QuantInsti: Statistical Arbitrage (Quantra)](https://quantra.quantinsti.com/glossary/Statistical-Arbitrage)
             - [Chainika Thakar: Pairs Trading for Beginners: Correlation, Cointegration, Examples, and Strategy Steps (BA)](https://blog.quantinsti.com/pairs-trading-basics/)
@@ -504,7 +504,6 @@ In case of questions, please write to:
         - [Viraj Bhagat: Iron Butterfly Options Strategy In Python (BA)](https://blog.quantinsti.com/iron-butterfly-options-trading-strategy/)
         - [Viraj Bhagat: Diagonal Spreads Options Trading Strategy In Python (BA)](https://blog.quantinsti.com/diagonal-spreads-options-trading-strategy-python/)
         - [Viraj Bhagat: Synthetic Long Put Options Trading Strategy In Python (BA)](https://blog.quantinsti.com/synthetic-long-put-strategy-python/)
-        - [Nitin Thapar: Trading Options: Long Combo Trading Strategy (BA)](https://blog.quantinsti.com/trading-options-long-combo-trading-strategy/)
         - [Chainika Thakar and Rekhit Pachanekar: Heston Model: Options Pricing, Python Implementation and Parameters (BA)](https://blog.quantinsti.com/heston-model/)
         - [QuantInsti: Trading using Options Sentiment Indicators (Quantra)](https://quantra.quantinsti.com/course/trading-using-options-sentiment-indicators)
         - [NSE Academy: Options Trading Strategies In Python: Basic (Quantra)](https://quantra.quantinsti.com/course/options-trading-strategies-python-advanced)
@@ -523,14 +522,9 @@ In case of questions, please write to:
         - [Chainika Thakar and Rekhit Pachanekar: Basics Of Options Trading Explained (BA)](https://blog.quantinsti.com/basics-options-trading/)
         - [Chainika Thakar and Rekhit Pachanekar: Advanced Options Trading: A Comprehensive Guide (BA)](https://blog.quantinsti.com/advanced-options-trading/)
         - [QuantInsti: How to Use Black Scholes Option Pricing Model (BA)](https://blog.quantinsti.com/options-trading-excel-model/)
-        - [Viraj Bhagat: Butterfly Spread Options Trading Strategy In Python (BA)](https://blog.quantinsti.com/butterfly-spread-options-trading-strategy-python/)
         - [Chainika Thakar and Varun Divakar: Open Interest in Options Trading (BA)](https://blog.quantinsti.com/open-interest-options-trading-python/)
         - [Chainika Thakar and Rekhit Pachanekar: Options Trading Strategies: 15 Most Popular Strategies (BA)](https://blog.quantinsti.com/options-trading-strategies/)
         - [Chainika Thakar and Viraj Bhagat: Straddle Options Strategy: Trading, Python and more (BA)](https://blog.quantinsti.com/straddle-options-trading-strategy-python/)
-        - [Viraj Bhagat: Bear Spread Options Trading Strategy In Python (BA)](https://blog.quantinsti.com/bear-spread-options-trading-strategy-in-python/)
-        - [Viraj Bhagat: Collar Options Trading Strategy In Python (BA)](https://blog.quantinsti.com/collar-options-trading-strategy-python/)
-        - [Viraj Bhagat: Iron Butterfly Options Strategy In Python (BA)](https://blog.quantinsti.com/iron-butterfly-options-trading-strategy/)
-        - [Viraj Bhagat: Diagonal Spreads Options Trading Strategy In Python (BA)](https://blog.quantinsti.com/diagonal-spreads-options-trading-strategy-python/)
         - [Nitin Thapar: Long Strangle Option Strategy In Python (BA)](https://blog.quantinsti.com/long-strangle-option-strategy-in-python/)
         - [Chainika Thakar: Options Trading for Indices: Complete Guide for Indian Markets (BA)](https://blog.quantinsti.com/index-option-trading-india/)
         - [QuantInsti: Index Arbitrage - An Automated Options Trading Strategy (BA)](https://blog.quantinsti.com/index-arbitrage-automated-options-trading-strategy/)
@@ -645,7 +639,7 @@ In case of questions, please write to:
     - [Lokesh Kumar: Turning data into insights and building strategy using Python (BA)](https://blog.quantinsti.com/data-insights-trading-strategy-python-project-lokesh-kumar/)
     - [Chainika Thakar and Varun Pothula: Types of Trading Strategies: Unraveling the Secrets of Strategic Trading (BA)](https://blog.quantinsti.com/types-of-trading-strategies/)
     - [Aiman Mulla: Top 10 Blogs on Algorithmic Trading | 2023 (BA)](https://blog.quantinsti.com/algorithmic-trading-top-blogs/)
-    - [QuantInsti: Algorithmic Trading Workshop 2021 - Learn Algorading Basics in 3 Days (BA)](https://blog.quantinsti.com/algo-trading-workshop-20-may-2021/)
+    - [QuantInsti: Algorithmic Trading Workshop 2021 - Learn Algorading Basics in 3 Days (BA)](https://blog.quantinsti.com/algo-trading-webinars-2021/#full-algo-trading-course-learn-algorithmic-trading)
 6. Backtest Trading Strategies <a id='backtest_trading_strategies'></a>
     1. Excel-Based Backtesting <a id='excel_based_backtesting'></a>
         - SFM-01 (EPAT)
