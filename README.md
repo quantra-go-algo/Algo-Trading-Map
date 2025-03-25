@@ -317,6 +317,7 @@ In case of questions, please write to:
             - DMP-01 (EPAT)
             - DMP-02 (EPAT)
             - [Rolf Schlotmann and Moritz Czubatinski: Trading: Technical Analysis MasterClass (TB)](https://www.amazon.com/-/es/Trading-Technical-Analysis-Masterclass-financial/dp/1795471859/)
+            - [A. J. Frost and Robert R. Prechter: Elliott Principle: A Key to Market Behaviour (TB)](https://www.amazon.com/-/es/Elliott-Wave-Principle-Market-Behavior/dp/1616040815)
             - [A.Z Penn et al.: Technical Analysis for Beginners (TB)](https://www.amazon.com/-/es/dp/B09F8CRM35/)
             - [Ishan Shah and Rekhit Pachanekar: Installation of Ta-Lib in Python: A Complete Guide for all Platforms (BA)](https://blog.quantinsti.com/install-ta-lib-python/)
             - [Chainika Thakar and Kevin Patrao: Price Action Trading: Strategies, Algo Trading and Python (BA)](https://blog.quantinsti.com/price-action-trading/)
