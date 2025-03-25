@@ -250,6 +250,7 @@ In case of questions, please write to:
         - [Anshul Tayal: Data Manipulation and Visualization Techniques in Julia: Data Manipulation and Visualization Techniques in Julia (BA)](https://blog.quantinsti.com/data-manipulation-visualization-using-julia/)
         - [Rekhit Pachanekar and Shaktiprasad Shimpi: Plotly Python - An Interactive Data Visualization: Plotly Python - An Interactive Data Visualization (BA)](https://blog.quantinsti.com/plotly-python/)
         - [Udisha Alok and Milind Paradkar: Creating Seaborn Heatmap Using Python: Creating Seaborn Heatmap Using Python (BA)](https://blog.quantinsti.com/creating-heatmap-using-python-seaborn/)
+        - [Manusha Rao: Historical Market Data Sources (BA)](https://blog.quantinsti.com/financial-market-data-providers/)
 3. Learn Trading Strategies <a id='learn_trading_strategies'></a>
     1. Equity <a id='equity'></a>
         1. Stocks <a id='stocks'></a>
