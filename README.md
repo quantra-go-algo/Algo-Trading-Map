@@ -242,6 +242,7 @@ In case of questions, please write to:
         - [José Carlos Gonzáles Tanaka: Download Cryptocurrency Data in Python by using Crypto Compare API (BA)](https://blog.quantinsti.com/download-cryptocurrency-data-python-cryptocompare-api/)
         - [José Carlos Gonzáles Tanaka: Download Futures Data with Yahoo Finance Library in Python (BA)](https://blog.quantinsti.com/download-futures-data-yahoo-finance-library-python/)
         - [QuantInsti: Getting Market Data: Stocks; Crypto; News & Fundamental (Quantra)](https://quantra.quantinsti.com/course/getting-market-data)
+        - [Manusha Rao: Historical Market Data Sources (BA)](https://blog.quantinsti.com/financial-market-data-providers/)
     2. Data Science <a id='data_science'></a>
         - [Kshitij Makwana: Why is data cleaning important and how to do it the right way? (BA)](https://blog.quantinsti.com/data-cleaning/)
         - [Chainika Thakar: Clean, Transform, Optimize: The Power of Data Preprocessing (BA)](https://blog.quantinsti.com/data-preprocessing/)
@@ -250,7 +251,6 @@ In case of questions, please write to:
         - [Anshul Tayal: Data Manipulation and Visualization Techniques in Julia: Data Manipulation and Visualization Techniques in Julia (BA)](https://blog.quantinsti.com/data-manipulation-visualization-using-julia/)
         - [Rekhit Pachanekar and Shaktiprasad Shimpi: Plotly Python - An Interactive Data Visualization: Plotly Python - An Interactive Data Visualization (BA)](https://blog.quantinsti.com/plotly-python/)
         - [Udisha Alok and Milind Paradkar: Creating Seaborn Heatmap Using Python: Creating Seaborn Heatmap Using Python (BA)](https://blog.quantinsti.com/creating-heatmap-using-python-seaborn/)
-        - [Manusha Rao: Historical Market Data Sources (BA)](https://blog.quantinsti.com/financial-market-data-providers/)
 3. Learn Trading Strategies <a id='learn_trading_strategies'></a>
     1. Equity <a id='equity'></a>
         1. Stocks <a id='stocks'></a>
@@ -490,6 +490,7 @@ In case of questions, please write to:
             - [Lamarcus Coleman: Polynomial Regression: Adding Non-Linearity To A Linear Model (BA)](https://blog.quantinsti.com/polynomial-regression-adding-non-linearity-to-a-linear-model/)
             - [Chainika Thakar: Artificial Intelligence & Machine Learning in Trading (BA)](https://blog.quantinsti.com/artificial-intelligence-machine-learning-trading/)
             - [Chainika Thakar: Trading using LLM: Generative AI & Sentiment Analysis in Finance (BA)](https://blog.quantinsti.com/trading-using-llm/)
+            - [José Carlos Gonzáles Tanaka: A novel drift detection algorithm for machine learning in trading (BA)](https://blog.quantinsti.com/autoregressive-drift-detection-method/)
     5. Options <a id='options'></a>
         - [Euan Sinclair: Option Trading: Pricing and Volatility Strategies and Techniques (TB)](https://www.amazon.com/-/es/Option-Trading-Volatility-Strategies-Techniques/dp/0470497106/)
         - [Euan Sinclair: Volatility Trading (TB)](https://www.amazon.com/-/es/Euan-Sinclair/dp/1118347137/)
